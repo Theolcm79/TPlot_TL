@@ -1,7 +1,7 @@
 void setup() {
   // put your setup code here, to run once:
 je suis un élève du CNAM
-  en deuxioème année
+  en deuxième année
 }
 
 void loop() {
